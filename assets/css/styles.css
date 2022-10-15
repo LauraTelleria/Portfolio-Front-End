@@ -1,0 +1,141 @@
+
+.navbar.navbar-expand-lg.bg-success {
+    background-color: #FFA726 !important;
+}
+i.fa-brands.fa-instagram.fa-2xl:hover{
+color:#f21e8c;
+
+}
+i.fa-brands.fa-instagram.fa-2xl {
+    text-decoration: none;
+    color:#000000
+}
+i.fa-brands.fa-square-facebook.fa-2xl:hover{
+color:#0040ff;
+}
+i.fa-brands.fa-square-facebook.fa-2xl {
+        text-decoration: none;
+        color:#000000
+}
+
+i.fa-brands.fa-linkedin.fa-2xl:hover{
+color:#00b3ff;
+}
+i.fa-brands.fa-linkedin.fa-2xl { 
+    text-decoration: none;
+    color:#000000
+}
+i.fa-brands.fa-square-pinterest.fa-2xl:hover{
+color:#ff0000;
+    }
+
+i.fa-brands.fa-square-pinterest.fa-2xl {
+text-decoration: none;
+color: #000000;
+}
+i.fa-solid.fa-user.fa-2xl:hover{
+color:#00ffae;
+}   
+i.fa-solid.fa-user.fa-2xl{
+    text-decoration: none;
+    color:#000000;
+    }   
+i.fa-solid.fa-user-pen.fa-2xl:hover{
+    color: #ff0000;
+}
+i.fa-solid.fa-user-pen.fa-2xl{
+    color: #000000;
+}
+
+.list-group.list-group-horizontal {
+    --bs-list-group-bg: transparent
+}    
+  .btn.btn-primary {
+    --bs-btn-bg: #FFA726;
+    --bs-btn-border-color: #FFA726;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #FFA726;
+    --bs-btn-hover-border-color: #FFA726;
+    --bs-btn-active-color: #0f0e0e;
+    --bs-btn-active-bg: #00ffae;
+    --bs-btn-active-border-color: #0f0e0e;
+} 
+.btn.btn-danger {
+    --bs-btn-active-bg: #00ffae;
+}
+section.about{
+    margin-top:15rem;
+}  
+section.Admin {
+    margin-top: 10rem
+}
+section.Banner{
+    background-image: url(../img/fondo7.jpg);
+    width: 100%;
+    height: 100vh;
+    margin-top: 10%;
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: cover;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -moz-background-size:cover ; 
+}
+.modal-backdrop.show{
+    --bs-backdrop-zindex: 0;
+}
+h1.intro {
+font-family: cursive;
+font-style: italic;
+color: #000000;
+text-shadow: 2px 2px 4px #e52f06, 4px 4px 4px #e52,
+6px 6px 4px #FFA726;
+font-size: 35px;
+text-align: justify;
+
+}
+h5.intro2 {
+    font-family: cursive;
+    font-style: italic;
+    color: #000000;
+    font-size: 20px;
+    text-shadow: 2px 2px 4px #e52f06, 4px 4px 4px #e52f06,
+    6px 6px 4px #FFA726;
+    text-align: center;
+}   
+div.card{
+    --bs-card-border-color:#FFA726;
+    --bs-card-border-width:0.5rem;
+    margin-block-start: 5%;
+    margin-block-end: 5%;
+}
+footer.pie-pagina{
+    border-radius: 80px 20px;
+    filter: opacity(35%);
+    background-color: #fff;
+    text-align:center;
+    padding: 0.5rem;
+    bottom:0;
+}
+div.row{
+    padding-top: 10%;
+}
+.admin{
+    font-size: 1rem;
+}
+.link{
+    text-decoration: none;
+    color: #000000;
+}
+div.red-instagram, 
+        .red-facebook, 
+        .red-linkedin,
+        .red-pinterest,
+        .banner,
+        .foto,
+        .nya,
+        .sobre,
+        .acerca{
+    text-align: left;
+}
+
